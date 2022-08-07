@@ -1,0 +1,1 @@
+## QuickSample PackageA sample python package for testing. I mean to test how to make package, not testing real stuff...
